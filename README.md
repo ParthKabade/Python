@@ -1,7 +1,5 @@
 🐍 Python → Machine Learning → AI
 
-A hands-on journey from Python fundamentals to Machine Learning, Deep Learning and Generative AI — with practical programs, experiments, and real-world projects.
-
 This repository contains my learning journey and implementations across Python, Data Science, Machine Learning, AI, Automation, Deep Learning, and Generative AI.
 
 ⸻
